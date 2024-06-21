@@ -32,7 +32,7 @@ $ npm i -g yarn
 `yarn`을 install 완료하면 dependencies 를 install 합니다.
 
 ```sh
-$ pnpm
+$ yarn
 # or
 $ yarn install
 ```
